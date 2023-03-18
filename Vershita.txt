@@ -1,0 +1,3 @@
+pink panther weds black panther == pinkish black cheetah:
+    print("ERROR!!!!")
+    
